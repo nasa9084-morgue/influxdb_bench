@@ -1,0 +1,6 @@
+package: .
+import:
+- package: github.com/influxdata/influxdb
+  version: ^1.2.3
+  subpackages:
+  - client
